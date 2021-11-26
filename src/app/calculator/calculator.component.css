@@ -1,0 +1,14 @@
+#calc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(35, 110, 175);
+
+
+}
+
+
+#dict{
+background-color: rgb(171, 196, 33);
+
+}
